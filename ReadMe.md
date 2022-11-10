@@ -5,7 +5,7 @@
 **Name:** Schulz
 **Vorname:** Jens
 
-![profile_picture] (picture01.png)
+![profile_picture](picture01.png)
 
 **Schule:** Grundschule Tannheim 2008 - 2012
 			 Karl-Marx-Realschule 2012 - 2018
